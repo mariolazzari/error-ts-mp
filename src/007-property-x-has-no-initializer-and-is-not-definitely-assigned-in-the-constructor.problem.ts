@@ -1,3 +1,7 @@
 class User {
-  private username: string;
+  // private username: string = "";
+
+  constructor(private username: string) {
+    this.username = username
+  }
 }
