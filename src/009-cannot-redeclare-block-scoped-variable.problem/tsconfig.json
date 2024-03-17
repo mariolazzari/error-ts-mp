@@ -7,6 +7,7 @@
     "allowJs": true, // Lets you import .js files
     "resolveJsonModule": true, // Lets you import .json files
     "isolatedModules": true,
+    "moduleDetection": "force",
     /* Strictness */
     "strict": true,
     "noUncheckedIndexedAccess": true,
